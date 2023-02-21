@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Victor and I do stuff
+My name is Victor and I do program stuff
 
 ## Education 📖
 [School 21](https://21-school.ru/)
