@@ -33,6 +33,6 @@ My name is Victor and I do program stuff
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 
-### Leetcode Stats:
+## Leetcode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Eleott-hi?theme=dark)
