@@ -37,4 +37,6 @@ My name is Victor and I do program stuff
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Eleott-hi?theme=dark)
 
+## Top Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleott-hi&layout=compact&hide=Batchfile&theme=maroongold)
