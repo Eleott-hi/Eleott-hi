@@ -4,6 +4,8 @@ My name is Victor and I do program stuff
 ## Education 📖
 [School 21](https://21-school.ru/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleott-hi&layout=compact&hide=Batchfile&theme=maroongold)]
+
 ## Languages & Tools
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
