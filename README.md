@@ -9,7 +9,7 @@ My name is Victor and I do program stuff
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-[![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/fnc12/sqlite_orm/blob/dev/CMakeLists.txt)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=GTK&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white)
@@ -29,7 +29,7 @@ My name is Victor and I do program stuff
 
 | Project name| Preview|Stack| Short description|
 |:--:|:----------------------|:----------------------:|:---------------|
-|[AlgorithmTraiding](https://github.com/Eleott-hi/Algorithm_Traiding)|![AlgorithmTrading](https://github.com/Eleott-hi/Algorithm_Traiding/blob/main/misc/images/interpolation.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)|Interpolation and approximation algorithms realizations|
+|[AlgorithmTraiding](https://github.com/Eleott-hi/Algorithm_Traiding)|![AlgorithmTrading](https://github.com/Eleott-hi/Algorithm_Traiding/blob/main/misc/images/interpolation.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)|Interpolation and approximation algorithms realizations|
 
 |Leetcode Stats|Top Languages|
 |:------------:|:-----------:|
