@@ -23,14 +23,14 @@ My name is Victor and I do program stuff
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-|Leetcode Stats|Top Languages|
-|:------------:|:-----------:|
-|![Leetcode Stats](https://leetcard.jacoblin.cool/Eleott-hi?theme=dark)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleott-hi&layout=compact&hide=Batchfile&theme=maroongold)|
-
 
 ### Here is the list of some my projects:
 
 | Project name| Preview|Stack| Short description|
 |:--:|:----------------------|:----------------------:|:---------------|
 |[AlgorithmTraiding](https://github.com/Eleott-hi/Algorithm_Traiding)|![AlgorithmTrading](https://github.com/Eleott-hi/Algorithm_Traiding/blob/main/misc/images/interpolation.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)|Interpolation and approximation algorithms realizations|
+
+|Leetcode Stats|Top Languages|
+|:------------:|:-----------:|
+|![Leetcode Stats](https://leetcard.jacoblin.cool/Eleott-hi?theme=dark)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleott-hi&layout=compact&hide=Batchfile&theme=maroongold)|
 
