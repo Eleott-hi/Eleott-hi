@@ -30,6 +30,7 @@ My name is Victor and I do program stuff
 | Project name| Preview|Stack| Short description|
 |:--:|:----------------------|:----------------------:|:---------------|
 |[AlgorithmTraiding](https://github.com/Eleott-hi/Algorithm_Traiding)|![AlgorithmTrading](https://github.com/Eleott-hi/Algorithm_Traiding/blob/main/misc/images/interpolation.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)|Interpolation and approximation algorithms realizations|
+|[Multilayer Perceptron](https://github.com/Eleott-hi/MLP)|![Multilayer Perceptron](https://github.com/Eleott-hi/MLP/blob/main/misc/images/recognition.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)|Implementation of a simple neural network (multilayer perceptron) that is trained on an open data set (EMNIST) and recognizes letters of the Latin alphabet (including handwritten ones)|
 
 |Leetcode Stats|Top Languages|
 |:------------:|:-----------:|
