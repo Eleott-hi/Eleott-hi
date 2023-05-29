@@ -37,3 +37,14 @@ My name is Victor and I do program stuff
 |:------------:|:-----------:|
 |![Leetcode Stats](https://leetcard.jacoblin.cool/Eleott-hi?theme=dark)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleott-hi&layout=compact&hide=Batchfile&theme=maroongold)|
 
+---
+
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/Eleott_Vl">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%Eleott_Vl">
+  </a>
+</div>
+<div id="views" align="center">
+  <img  src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
