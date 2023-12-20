@@ -12,6 +12,7 @@
   - 🌱 Goals: I aspire to contribute my skills to a dynamic team, where innovation is a constant and learning never stops. Let's build something amazing together! 🌟
 
 📬 Contact: Feel free to reach out to me:
+
   <a href="https://t.me/Eleott_Vl">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%Eleott_Vl">
   </a>
