@@ -1,5 +1,7 @@
 👋 Hello World! I'm Victor, a passionate developer with a knack for crafting efficient and scalable solutions. 🚀
 
+📚 Learning at School 21: Currently expanding my knowledge in a dynamic learning environment at [School 21](https://21-school.ru/), where I'm gaining hands-on experience and tackling real-world coding challenges.
+
 🚀 Seeking: Python/C++ Backend Developer opportunities. I'm on the lookout for a role where I can collaborate with talented individuals, contribute to impactful projects, and continuously enhance my skills.
 
 💡 About me:
@@ -12,9 +14,6 @@
   <a href="https://t.me/Eleott_Vl">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%Eleott_Vl">
   </a>
-
-## Education 📖
-[School 21](https://21-school.ru/)
 
 ## Languages & Tools
 
