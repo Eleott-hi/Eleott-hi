@@ -1,4 +1,6 @@
-👋 Hello World! I'm Victor, a passionate developer with a knack for crafting efficient and scalable solutions. 🚀
+# 👋 Hello World! 
+
+👩‍💻 I'm Victor, a passionate developer with a knack for crafting efficient and scalable solutions. 🚀
 
 📚 Learning at School 21: Currently expanding my knowledge in a dynamic learning environment at [School 21](https://21-school.ru/), where I'm gaining hands-on experience and tackling real-world coding challenges.
 
