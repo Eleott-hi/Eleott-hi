@@ -1,8 +1,14 @@
-# Hi there 👋
-My name is Victor and I do program stuff
+👋 Hello World! I'm Victor, a passionate developer with a knack for crafting efficient and scalable solutions. 🚀
 
+🚀 Seeking: Python/C++ Backend Developer opportunities. I'm on the lookout for a role where I can collaborate with talented individuals, contribute to impactful projects, and continuously enhance my skills.
 
-<!-- <div id="badges" align="center"> -->
+💡 About me:
+  - 🤖 Passionate about ML: Beyond coding, my hobby is diving into the world of Machine Learning, especially deep learning. 🧠
+  - 🌐 Full Stack Proficiency: From low-level programming with C and C++ to high-level Python development, I'm well-versed in the entire stack.
+  - 🚀 Collaborative Spirit: I thrive in environments where great minds come together to build something exceptional.
+  - 📈 Continuous Learner: I have a relentless drive to improve myself as a specialist and stay ahead in the ever-evolving tech landscape.
+  - 🌱 Goals: I aspire to contribute my skills to a dynamic team, where innovation is a constant and learning never stops. Let's build something amazing together! 🌟
+
   <a href="https://t.me/Eleott_Vl">
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%Eleott_Vl">
   </a>
