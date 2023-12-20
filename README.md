@@ -30,7 +30,7 @@ My name is Victor and I do program stuff
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## Here is the list of some my projects:
+## Here is the list of some of my projects:
 
 | Project name| Preview|Stack| Short description|
 |:--:|:----------------------:|:----------------------:|:---------------:|
