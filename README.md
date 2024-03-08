@@ -39,12 +39,18 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-![React](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ## Here is the list of some of my projects:
 
 | Project name| Preview|Stack| Short description|
 |:--:|:----------------------:|:----------------------:|:---------------:|
+|[Info v2.0 Web Py](https://github.com/Eleott-hi/InfoWebPy)|![Info v2.0 Web Py](https://github.com/Eleott-hi/InfoWebPy/blob/main/misc/images/main.gif)|
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
+![PostreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)|Creating a web interface for the SQL project|
 |[AlgorithmTraiding](https://github.com/Eleott-hi/Algorithm_Traiding)|![AlgorithmTrading](https://github.com/Eleott-hi/Algorithm_Traiding/blob/main/misc/images/interpolation.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)|Interpolation and approximation algorithms realizations|
 |[Multilayer Perceptron](https://github.com/Eleott-hi/MLP)|![Multilayer Perceptron](https://github.com/Eleott-hi/MLP/blob/main/misc/images/recognition.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)|Implementation of a simple neural network (multilayer perceptron) that is trained on an open data set (EMNIST) and recognizes letters of the Latin alphabet (including handwritten ones)|
 |[Photolab](https://github.com/Eleott-hi/Photolab)|![Photolab](https://github.com/Eleott-hi/Photolab/blob/main/misc/images/photolab.gif)|![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)|The program provide the ability to use filters on images|
