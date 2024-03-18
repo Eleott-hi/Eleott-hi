@@ -19,6 +19,13 @@
     <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=white&label=Telegram&logo=telegram&style=social&url=https%3A%2F%2Ft.me%Eleott_Vl">
   </a>
 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/LemonFace0309">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eleott-hi&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Charles' GitHub Stats" />
+</a>
+
 ## Languages & Tools
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
