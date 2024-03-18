@@ -56,16 +56,17 @@ SQLAlchemy
 
 ## Additional
 
+### &#x1f4c8; GitHub Stats
+<a href="https://github.com/Eleott-hi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eleott-hi&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Charles' GitHub Stats" />
+</a>
+
 ## Leetcode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Eleott-hi?theme=dark)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleott-hi&layout=compact&hide=Batchfile&theme=maroongold)|
 
-### &#x1f4c8; GitHub Stats
-<a href="https://github.com/Eleott-hi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eleott-hi&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Charles' GitHub Stats" />
-</a>
 
 
 ---
